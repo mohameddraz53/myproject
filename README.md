@@ -1,2 +1,2 @@
 # myproject
-for Docker fimges
+for Docker iamges
