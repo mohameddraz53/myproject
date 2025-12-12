@@ -1,2 +1,2 @@
 # myproject
-for Docker iamges
+for Docker images
